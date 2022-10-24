@@ -2,7 +2,7 @@
 
 ![](./img/screenshot.png)
 
-[Clique aqui]() para acessar o site.
+[Clique aqui](https://oliveiraclara.github.io/portifolio/) para acessar o site.
 
 ---
 ## Sobre
