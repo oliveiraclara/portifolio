@@ -33,6 +33,18 @@ main{
 section{
     height: 100vh;
 }
+.voltar{
+    position: fixed;
+    right: 16px;
+    bottom: 16px;
+    display: grid;
+    place-content: center;
+    font-size: 2.5rem;
+    transition: all .5s;
+}
+.voltar:hover{
+    color: var(--primary-color);
+}
 footer{
     grid-area: content;
     place-self: end start;
