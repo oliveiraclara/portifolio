@@ -1,6 +1,6 @@
 # PORTIFÓLIO
 
-![](./img/screenshot.png)
+![](./img/desktop_portifolio.png)
 
 [Clique aqui](https://oliveiraclara.github.io/portifolio/) para acessar o site.
 
