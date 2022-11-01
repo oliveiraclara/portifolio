@@ -10,3 +10,6 @@
 .menu li:hover{
     border-color: var(--primary-color);
 }
+.menuzinho{
+    display: none;
+}
